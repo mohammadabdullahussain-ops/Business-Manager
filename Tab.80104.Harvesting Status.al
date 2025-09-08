@@ -15,7 +15,7 @@ table 80104 "Harvesting Status"
         }
         field(2; Description; Text[100])
         {
-            Caption = 'Description';
+            Caption = 'Fix';
             DataClassification = CustomerContent;
         }
     }
